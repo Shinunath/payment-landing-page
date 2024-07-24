@@ -291,38 +291,3 @@
   color:white;
 }
 
-/* @media  screen and (max-width:600px) {
-  .hero{
-    width: 5%;
-  }
-  .logo{
-    font-size: 20px;
-  }
-  .hero img{
-    /* right: 0px; */
-     /* height: 140px;
-     width: 140px;
-  }
-  .heading{
-    margin-left: 40px;
-  }
-  .hero{
-    height: 100vh;
-  }
-  .heading2{
-       top: 400px;
-       margin-left:40px;
-  }
-  .feature-section{
-    height: 100vh;
-  }
-  .features ul{
-    position: absolute;
-    margin-top: 30px;
-    padding-left: 500px;
-    text-decoration: none;
-    list-style: none;
-    font-size: 30px;
-    font-family: Edgar Deiner, sans-serif;; 
- } 
-}  */
